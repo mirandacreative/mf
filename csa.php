@@ -62,7 +62,7 @@
 							<p>Dutch Variety Tomatoes, Cherry Tomatoes, English Cucumbers, Mini Cucumbers, Basil &amp; other Herbs, Beets, Kale, Arugula, Lettuce, String Beans, Sugar Snap Peas, Cherries, Strawberries, Summer Squashes, Blueberries, Blackberries, Peaches, Plums, Nectarines, Sweet Corn, Carrots, Peppers, Apples, Pumpkins, various Winter Squashes &amp; more!</p>
 							<p>CSA&#8217;s are something that many farms offer, but don&#8217;t always cater to the participants (i.e. &#8211; loading a weekly pickup with excess produce that would otherwise end up in the compost pile). We aim to change that by maximizing the diversity of our produce offerings each &amp; every week!</p>
 							<p>&nbsp;</p>
-							<p><img src="img/csa-photo02.png" width="750"></p>
+							<p><img src="img/csa-photo03.png" width="750"></p>
 							<p><b>How does the March Farm CSA work?</b></p>
 							<p>After purchasing a &#8216;share&#8217; members visit the farm once a week starting in June to pick-up their freshly picked box of seasonal berries, fruits &amp; vegetables.</p>
 							<p>Members choose either Wednesday or Thursday as their pick-up day &amp; are asked keep that day through the season.</p>
@@ -102,7 +102,7 @@
 							<p>Please view the March Farm CSA Member Agreement for additional information regarding our shared commitments, picking up shares, membership fees &amp; how to communicate with us!</p>
 							<p>&nbsp;</p>
 							<div class="cta">
-								<a class="venue__blurb-section-btn site-btn site-btn--blue" href="https://squareup.com/store/march-farm">Sign Up</a>
+								<a class="venue__blurb-section-btn site-btn site-btn--blue" href="https://squareup.com/store/march-farm>Sign Up</a>
 								<a class="venue__blurb-section-btn site-btn site-btn--grey" href="pdf/March_Farm_CSA_Member_Agreement_2018.pdf">Membership Agreement</a>
 							</div>
 							<p>&nbsp;</p>
