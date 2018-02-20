@@ -102,7 +102,7 @@
 							<p>Please view the March Farm CSA Member Agreement for additional information regarding our shared commitments, picking up shares, membership fees &amp; how to communicate with us!</p>
 							<p>&nbsp;</p>
 							<div class="cta">
-								<a class="venue__blurb-section-btn site-btn site-btn--blue" href="https://squareup.com/store/march-farm>Sign Up</a>
+								<a class="venue__blurb-section-btn site-btn site-btn--blue" href="https://squareup.com/store/march-farm">Sign Up</a>
 								<a class="venue__blurb-section-btn site-btn site-btn--grey" href="pdf/March_Farm_CSA_Member_Agreement_2018.pdf">Membership Agreement</a>
 							</div>
 							<p>&nbsp;</p>
