@@ -36,11 +36,16 @@
             </footer><!-- END of footer -->
             <link href='wp-content/plugins/wd-instagram-feed/css/wdi_frontend.min-ver=1.2.15.css' id='wdi_frontend_thumbnails-css' media='all' rel='stylesheet' type='text/css'>
             <link href='https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css?ver=1.2.15' id='font-awesome-css' media='all' rel='stylesheet' type='text/css'>
+            <!--MR 2-20-2018-->
+            <script src="./js/jQuery_3_slim_min.js">
+            </script>
+            <script type="text/javascript" src="./js/script.js"></script>
+            <!--/MR-->
             <script src='wp-content/themes/march-farm/js/foundation.min-ver=6.3.0.js' type='text/javascript'></script>
             <script src='wp-content/themes/march-farm/js/plugins/slick.min-ver=1.6.0.js' type='text/javascript'></script>
             <script src='wp-content/themes/march-farm/js/plugins/jquery.matchHeight-min-ver=0.7.0.js' type='text/javascript'></script>
             <script src='wp-content/themes/march-farm/js/plugins/jquery.fancybox.pack-ver=2.1.5.js' type='text/javascript'></script>
-            <script src='wp-content/themes/march-farm/js/global.js' type='text/javascript'></script>
+            <!--MR  <script src='wp-content/themes/march-farm/js/global.js' type='text/javascript'></script> /MR-->
             <script src='wp-includes/js/wp-embed.min-ver=4.9.4.js' type='text/javascript'></script>
             <script src='wp-includes/js/underscore.min-ver=1.8.3.js' type='text/javascript'>  </script>
             <script src='wp-content/plugins/wd-instagram-feed/js/wdi_instagram.min-ver=1.2.15.js' type='text/javascript'>     </script>

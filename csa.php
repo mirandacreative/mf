@@ -77,7 +77,7 @@
 								<li class="li1">Extra incentive to plan &amp; prepare healthy meals since you&#8217;ve already paid for the food!</li>
 							</ul>
 							<div>
-								<a class="venue__blurb-section-btn site-btn site-btn--blue" href="https://squareup.com/store/march-farm">Sign Up</a>
+								<a class="venue__blurb-section-btn site-btn site-btn--blue" href="#signup-button">Sign Up</a>
 							</div>
 							<h1 class="page-title">Growing Practices</h1>
 							<p>We are proud of the significant efforts we employ to minimize our environmental footprint while balancing the need to be economically viable. We have achieved this using a sound, structured Integrated Pest Management Program. IPM is an effective and environmentally sensitive approach to pest management that relies on a combination of scouting, timely action steps & overall knowledge – in regards to both the life cycles of the crops & the pests that prey on them. IPM programs use current, comprehensive information on the life cycles of pests and their interaction with the environment. This information, in combination with available pest control methods, is used to manage pest damage by the most economical means, and with the least possible hazard to people, property, and the environment.</p>
@@ -102,8 +102,13 @@
 							<p>Please view the March Farm CSA Member Agreement for additional information regarding our shared commitments, picking up shares, membership fees &amp; how to communicate with us!</p>
 							<p>&nbsp;</p>
 							<div class="cta">
-								<a class="venue__blurb-section-btn site-btn site-btn--blue" href="https://squareup.com/store/march-farm">Sign Up</a>
-								<a class="venue__blurb-section-btn site-btn site-btn--grey" href="pdf/March_Farm_CSA_Member_Agreement_2018.pdf">Membership Agreement</a>
+								<a class="venue__blurb-section-btn site-btn site-btn--grey" href="pdf/March_Farm_CSA_Member_Agreement_2018.pdf" target="_blank">Membership Agreement</a>
+								<a id="signup-button" class="venue__blurb-section-btn site-btn site-btn--blue" href="https://squareup.com/store/march-farm">Sign Up</a></br>
+								<div class="form-group">
+									<input type="checkbox" id="checkbox" style="display: inline" />	
+									<label for="agreement-checkbox">I have read and the membership agreement and I agree to the terms.</label>
+								</div>
+								
 							</div>
 							<p>&nbsp;</p>
 						</article>
