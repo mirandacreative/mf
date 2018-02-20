@@ -5,24 +5,6 @@
 
 sitemap.xml
 sitemap.xml.gz
-wp-config.php
-wp-config-sample.php
-wp-content/advanced-cache.php
-wp-content/backup-db/
-wp-content/backups/
-wp-content/blogs.dir/
-wp-content/cache/
-wp-content/upgrade/
-wp-content/uploads/
-wp-content/uploads/backup*
-wp-content/wp-cache-config.php
-wp-content/plugins/hello.php
-wp-content/*.sql
-wp-content/*.sql.gz
-wp-content/*.sql.bz2
-wp-content/backup*
-wp-content/plugins/
-
 
 /readme.html
 /license.txt
@@ -37,6 +19,7 @@ node_modules/
 sftp-config.json
 .sublime-workspace
 mf.sublime-workspace
+*.sublime-workspace
 
 
 #  Wordmove #
