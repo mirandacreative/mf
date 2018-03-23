@@ -85,7 +85,7 @@
 									</h3></div>
 									<div class="venue__blurb-section">
 										
-										<a class="venue__blurb-section-btn site-btn site-btn--grey" href="March-Farm-Wedding-Contract.pdf">Wedding Contract</a></div>
+										<a class="venue__blurb-section-btn site-btn site-btn--grey" href="pdf/March-Farm-Wedding-Contract.pdf">Wedding Contract</a></div>
 										<div class="venue__blurb-section">
 										<a id="signup-button" class="venue__blurb-section-btn site-btn site-btn--grey" href="mailto:marchfarms@marchfarms.com">Contact Us</a>
 										

@@ -19,6 +19,7 @@ node_modules/
 sftp-config.json
 .sublime-workspace
 mfs.sublime-workspace
+mfs.sublime-project
 *.sublime-workspace
 
 
