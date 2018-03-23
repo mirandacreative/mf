@@ -142,7 +142,7 @@
 										
 									</h3></div>
 									<div class="venue__blurb-section">
-										<a class="venue__blurb-section-btn site-btn site-btn--grey" href="mailto:marchfarms@marchfarms.com">Contact Us</a>
+										<a class="venue__blurb-section-btn site-btn site-btn--grey" href="weddings.php.php">Learn More About March Farm Weddings</a><br/>
 										<div class="venue__blurb-section-content"></div>
 									</div>
 								</div>

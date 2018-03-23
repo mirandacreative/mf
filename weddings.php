@@ -48,7 +48,7 @@
 				
 			</div>
 		</div>
-			<div class="row column page-nav-container">
+		<div class="row column page-nav-container">
 			<div class="page-nav-bullets">
 				<a class="page-nav-bullet" href="index.php"><span class="bullet-title">March Farm</span></a>
 				<a class="page-nav-bullet" href="csa.php"><span class="bullet-title">CSA</span></a>
@@ -62,7 +62,7 @@
 				<div class="large-12 medium-12 small-12 columns">
 					<main class="main-content">
 						<article class="post-134 page type-page status-publish hentry">
-								<div class="venue__inner">
+							<div class="venue__inner">
 								<div class="venue__title-container">
 									<div class="venue__title-container-inner">
 										<p class="venue__type">March Farm</p>
@@ -84,21 +84,25 @@
 										
 									</h3></div>
 									<div class="venue__blurb-section">
-										<a class="venue__blurb-section-btn site-btn site-btn--grey" href="mailto:marchfarms@marchfarms.com">Contact Us</a>
-										<div class="venue__blurb-section-content"></div>
+										
+										<a class="venue__blurb-section-btn site-btn site-btn--grey" href="March-Farm-Wedding-Contract.pdf">Wedding Contract</a></div>
+										<div class="venue__blurb-section">
+										<a id="signup-button" class="venue__blurb-section-btn site-btn site-btn--grey" href="mailto:marchfarms@marchfarms.com">Contact Us</a>
+										
 									</div>
+									<div class="venue__blurb-section-content"></div>
 								</div>
 							</div>
-
-						</article>
-					</main>
-				</div>
-				<!-- END of page content -->
-				<!-- BEGIN of sidebar -->
-				<div class="large-4 medium-4 small-12 columns sidebar">
-					
-				</div>
-				<!-- END of sidebar -->
+						</div>
+					</article>
+				</main>
 			</div>
+			<!-- END of page content -->
+			<!-- BEGIN of sidebar -->
+			<div class="large-4 medium-4 small-12 columns sidebar">
+				
+			</div>
+			<!-- END of sidebar -->
 		</div>
-		<?php include "footer.php" ?>
+	</div>
+	<?php include "footer.php" ?>
