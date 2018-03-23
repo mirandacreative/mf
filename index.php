@@ -49,6 +49,8 @@
 						<div class="page-nav-bullets">
 							<a class="page-nav-bullet" href="#march-farm"><span class="bullet-title">March Farm</span></a>
 							<a class="page-nav-bullet" href="#community-supported-agriculture"><span class="bullet-title">CSA</span></a>
+							<a class="page-nav-bullet" href="weddings.php"><span class="bullet-title">Weddings</span></a>
+							<a class="page-nav-bullet" href="http://marchfarmoutings.com/" target="_blank"><span class="bullet-title">Outings</span></a>
 						</div>
 					</div>
 					<div class="venue-container">
@@ -113,13 +115,40 @@
 								<div class="venue__blurb-section">
 									<a class="venue__blurb-section-btn site-btn site-btn--grey" href="csa.php">Learn More About Our CSA</a><br/>
 								</div>
-								<br />
-								<div>
-									<a class="venue__blurb-section-btn site-btn site-btn--blue" href="https://squareup.com/store/march-farm">Sign Up</a>
-								</div>
 							</div>
 						</div>
 					</section>
+					<section class="venue" id="community-supported-agriculture" style="background-image: url();">
+							<span class="bg-opacity"></span>
+								<div class="venue__inner">
+								<div class="venue__title-container">
+									<div class="venue__title-container-inner">
+										<p class="venue__type">March Farm</p>
+										<h2 class="venue__title">Weddings</h2>
+									</div>
+								</div>
+								<div class="venue__gallery gallery">
+									<div class="venue__gallery-main-img gallery__thumb_t" style="background-image: url('img/weddings/mf-weddings0.jpg');">
+									</div>
+									<div class="venue__gallery-thumbnails">
+										<div class="venue__gallery-thumb-1 gallery__thumb" rel="gallery" style="background-image: url('img/weddings/mf-weddings7.jpg'); background-size: 350px;"></div>
+										<div class="venue__gallery-thumb-2 gallery__thumb" rel="gallery" style="background-image: url('img/weddings/mf-weddings1.jpg'); background-size: 240px;"></div>
+										<div class="venue__gallery-thumb-3 gallery__thumb" rel="gallery" style="background-image: url('img/weddings/mf-weddings9.jpg'); background-size: 350px;"></div>
+									</div>
+								</div>
+								<div class="venue__info">
+									<div class="venue__main-content">
+										<p>Make your special day unforgettable at our Ponds Side Pines or Hill Top Orchard event spaces.  Both rustically beautiful, the Pond Side Pines is nestled among majestic pine trees surrounded by water while the Hill Top Orchard enjoys breathtaking views of the beautiful rolling hills of Litchfield County.  For a complete list of amenities, pricing and reservation availability please email our Event Planner today. </p>
+										
+									</h3></div>
+									<div class="venue__blurb-section">
+										<a class="venue__blurb-section-btn site-btn site-btn--grey" href="mailto:marchfarms@marchfarms.com">Contact Us</a>
+										<div class="venue__blurb-section-content"></div>
+									</div>
+								</div>
+							</div>
+
+						</section>
 					
 				</div>
 				<script>

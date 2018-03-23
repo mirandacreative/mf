@@ -12,10 +12,10 @@
             </div>
             <div class="footer__right">
                 <div class="footer__right-inner">
-                    <a class="footer__right-purchase-title" href="https://squareup.com/store/march-farm" target="_blank">Sign up for CSA</a>
+                    <a class="footer__right-purchase-title" href="csa.php" target="_blank">Sign up for CSA</a>
                     <div class="footer__right-blurb">
                         <p>Our CSA program will span 16 weeks starting in June and running through September.</p>
-                        </div><a class="btn site-btn site-btn--grey" href="https://squareup.com/store/march-farm">Learn More</a>
+                        </div><a class="btn site-btn site-btn--grey" href="csa.php">Learn More</a>
                     </div>
                 </div>
             </div>

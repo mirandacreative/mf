@@ -48,14 +48,6 @@
 				
 			</div>
 		</div>
-		<div class="row column page-nav-container">
-			<div class="page-nav-bullets">
-				<a class="page-nav-bullet" href="index.php"><span class="bullet-title">March Farm</span></a>
-				<a class="page-nav-bullet" href="csa.php"><span class="bullet-title">CSA</span></a>
-				<a class="page-nav-bullet" href="weddings.php"><span class="bullet-title">Weddings</span></a>
-				<a class="page-nav-bullet" href="http://marchfarmoutings.com/" target="_blank"><span class="bullet-title">Outings</span></a>
-			</div>
-		</div>
 		<div class="default-page">
 			<div class="row">
 				<!-- BEGIN of page content -->
